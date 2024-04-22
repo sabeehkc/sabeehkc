@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeehkc&label=Profile%20views&color=0e75b6&style=flat" alt="sabeehkc" /> </p>
 
-- 🌱 I’m currently **working on a project**
+- 🌱 I’m currently **working on a personnel e-commerce project**
 
 - 👨‍💻 All of my projects are available at<a href="https://github.com/sabeehkc?tab=repositories"> My Repositories</a>
  
