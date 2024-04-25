@@ -12,13 +12,13 @@
 - 💬 Ask me about **JavaScript,Nodejs,Expressjs,MongoDB**
 
 - 📫 How to reach me **wg457129@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sabeeh-kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sabeeh-kc" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sabeeh_kc?igsh=bdrrowz6ogjnegg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sabeeh_kc?igsh=bdrrowz6ogjnegg3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mhdsabeeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mhdsabeeh/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/sabeeh-kc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://instagram.com/sabeeh_kc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://leetcode.com/mhdsabeeh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
+
 
 
 <h1 align="left">🛠️ Skills</h1>
